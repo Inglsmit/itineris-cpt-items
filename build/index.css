@@ -1,0 +1,21 @@
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+.wp-block-itinerisblocks-cpt-items.wp-block[data-type="itinerisblocks/cpt-items"] {
+  max-width: 1145px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0;
+}
+.wp-block-itinerisblocks-cpt-items.wp-block[data-type="itinerisblocks/cpt-items"] ul {
+  margin: 0;
+}
+.wp-block-itinerisblocks-cpt-items .wp-block-itinerisblocks-cpt-items__list .wp-block-itinerisblocks-cpt-items__card-text {
+  margin-top: 0;
+}
+.wp-block-itinerisblocks-cpt-items .wp-block-itinerisblocks-cpt-items__list .wp-block-itinerisblocks-cpt-items__card-text p {
+  margin: 0;
+  line-height: 24px;
+}
+
+/*# sourceMappingURL=index.css.map*/

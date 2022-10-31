@@ -1,0 +1,19 @@
+{
+	"apiVersion": 2,
+	"name": "itinerisblocks/cpt-items",
+	"title": "Itineris CPT items",
+	"category": "widgets",
+	"icon": "grid-view",
+	"description": "Dynamic block which display the most recent custom post type (CPT) items.",
+	"keywords": [
+		"posts",
+		"list"
+	],
+	"supports": {
+		"html": false
+	},
+	"textdomain": "cpt-items",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
